@@ -1,3 +1,3 @@
 function showMessage() {
-    alert("Hello! Welcome to GitHub");
+    alert("Hello! Welcome to GitHub demo");
 }
